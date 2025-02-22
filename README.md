@@ -28,8 +28,6 @@
 Cetin Studio is an **integrated development environment (IDE) specifically designed for JavaScript (CetinJS).**
 It was officially introduced on **February 22, 2025**, through **XertXetin** social media channels. Built on **Electron** and **Node.js**, it is optimized for developing **PWA, Web, and WebView (Android, iOS)** applications.
 
-[![CetinJS ALL](https://raw.githubusercontent.com/xertxetin/cetin-studio/refs/heads/main/cetin-all-banner.jpg)](https://github.com/xertxetin/CetinJS)
-
 ## 🛠️ Features
 - **⚡ Fast and Lightweight:** Minimalist design with low resource consumption
 - **📱 Cross-Platform Compatibility:** Supports Windows, macOS, and Linux
