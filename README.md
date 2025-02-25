@@ -24,6 +24,11 @@
 
 **Integrated Development Environment for JavaScript (CetinJS)**  
 
+| <a href="https://github.com/xertxetin/cetin-utils"><img src="https://raw.githubusercontent.com/xertxetin/CetinJS/refs/heads/main/docs/media/cetin-utils-logo.png" width="200px"></a> | <a href="https://github.com/xertxetin/CetinJS"><img src="https://raw.githubusercontent.com/xertxetin/CetinJS/main/docs/media/logo.png" width="200px"></a> | <a href="https://github.com/xertxetin/cetin-core"><img src="https://raw.githubusercontent.com/xertxetin/CetinJS/refs/heads/main/docs/media/cetin-core-logo.png" width="200px"></a> |
+|:--:|:--:|:--:|
+| 🛠️ **[Cetin Utils](https://github.com/xertxetin/cetin-utils)** | ⚡️ **[CetinJS](https://github.com/xertxetin/CetinJS)** | 🔧 **[Cetin Core](https://github.com/xertxetin/cetin-core)** |
+| A toolset for CetinJS, simplifying project build, compression, and management for an efficient workflow. | A minimalist framework built with vanilla JavaScript. No unnecessary commands—just efficient essentials for faster, reliable development. | Core files powering CetinJS with performance, security, and stability. Handle with care to maintain integrity. |
+
 ## 🚀 About
 Cetin Studio is an **integrated development environment (IDE) specifically designed for JavaScript (CetinJS).**
 It was officially introduced on **February 22, 2025**, through **XertXetin** social media channels. Built on **Electron** and **Node.js**, it is optimized for developing **PWA, Web, and WebView (Android, iOS)** applications.
